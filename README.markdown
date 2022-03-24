@@ -3,6 +3,10 @@ vim-colemak
 
 Colemak key mappings for Vim. Trimmed and modified version of [Shai Coleman's configuration](http://colemak.com/pub/vim/colemak.vim).
 
+In this fork (`prg318`), the remaps have been moved inside a function
+`Colemak()`.  This allows more flexibility for hybrid keyboard layout
+configurations.
+
 Install
 -------
 
